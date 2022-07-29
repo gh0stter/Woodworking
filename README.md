@@ -119,19 +119,40 @@
 	玩木工是脱离不了手工工具的，刨子，凿子，锤子，锯子这四样是最基本的. 刚开始玩的时候为了省钱买了很多乱七八糟的手工工具,  比如刨子就买过很多中式的,  都头来因为入门门槛高和刚入坑不懂,  现在几乎全部在吃灰. 
 	为了避免刚入坑花冤枉钱，下面推荐一些是值得买的入门级别手工工具,  推荐的不一定便宜,  但性价比高,  好用
 	* 刨刀
-		在中式, 日式, 欧式里面数欧刨对新手最友好, 熟练使用难度系数为欧式 > 中式=日式, 别看它的结构复杂, 它的调整与精确度是三种里面最容易实现的, 能让使用者更容易得到成就感. 这里面主要的难点在于刀刃的调整与刨身的维护, 据我所知日式拉刨在刚买回来的时候是不能直接使用的, 需要对刨体, 压铁 (盖铁/cap iron/chip breaker) 进行一定的修整才能使用 ([日式刨的调整 Tuning and Using Japanese Hand Planes - WOOD magazine](https://www.youtube.com/watch?v=e07dTYfYaww) ), 中式刨身调整我并没有深入了解, 这里就不讨论, 中式和日式的刨刃是通过锤子的敲击来调整, 这需要使用者有一定的经验才能比较好地调整, 同时在维护方面来说, 木制刨身是需要更细心的保养, 综合以上来说中式日式的刨子对于新手来说门槛太高. 
+		在中式, 日式, 欧式里面数欧刨对新手最友好, 熟练使用难度系数为欧式 > 中式=日式, 别看它的结构复杂, 它的调整与精确度是三种里面最容易实现的, 能让使用者更容易得到成就感. 这里面主要的难点在于刀刃的调整与刨身的维护, 据我所知日式拉刨在刚买回来的时候是不能直接使用的, 需要对刨体, 压铁 (盖铁/cap iron/chip breaker) 进行一定的修整才能使用 ([日式刨的调整 Tuning and Using Japanese Hand Planes - WOOD magazine](https://www.youtube.com/watch?v=e07dTYfYaww)), 中式刨身调整我并没有深入了解, 这里就不讨论, 中式和日式的刨刃是通过锤子的敲击来调整, 这需要使用者有一定的经验才能比较好地调整, 同时在维护方面来说, 木制刨身是需要更细心的保养, 综合以上来说中式日式的刨子对于新手来说门槛太高. 
 		
 		反观欧刨, 得益于其复杂的机械调整结构, 不需要额外的工具 (锤子) 就能很容易地调整刨刃的进刀量和平行度, 金属刨身也仅仅需要做好防锈即可, 简直是业余爱好者的福音.
 		价格上一般来说欧刨会比中式, 日式的木刨贵, 但由于使用和维护简单, 这笔投资是值得的.
 		
-	    当我们想少花钱, 第一件事想到的就是买二手, 如果买二手, 我只研究过两个牌子, 一个是 Stanley, 另一个是 Record. 作为入门刨子，优先选择 No. 4 和 No. 5 1/2 这两个型号, 理由是这两个的大小能满足至少 80% 的工作需求, 当熟悉之后在慢慢入手别的型号.
-	    - Stanley 是个历史悠久的牌子, 他们在以前是很出名的工具制造商, 但后来因为机械化的发展, 他们慢慢开始没落, 工具品质也走下坡路. 当我们买二手 Stanley 的时候主要看那些有几十年甚至上百年历史的金属刨子. Stanley 工具产品线非常复杂，更详细的请参考样 [[手工工具 (Hand Tools)/刨 (Plane)/古董欧刨 - Stanley 和 Record]]
+	    当我们想少花钱, 第一件事想到的就是买二手, 如果买二手, 我只研究过两个牌子, 一个是 Stanley, 另一个是 Record. 作为入门刨子, 优先选择 No.4 和 No.5 1/2 (有时候 No.5 1/2 比较难找, 可以找 No.5, 这两个只有刀刃宽度的区别) 这两个型号, 理由是这两个的大小能满足至少 80% 的工作需求, 当熟悉之后在慢慢入手别的型号.
+	    - Stanley 是个历史悠久的牌子, 他们在以前是很出名的工具制造商, 但后来因为机械化的发展, 他们慢慢开始没落, 工具品质也走下坡路. 当我们买二手 Stanley 的时候主要看那些有几十年甚至上百年历史的金属刨子, 最直接了当的是看刨体是否有 Bailey 字样 (只针对 Bench Plane). Stanley 工具产品线非常复杂，更详细的请参考样 [[手工工具 (Hand Tools)/刨 (Plane)/古董欧刨 - Stanley 和 Record]]
 	    - Record 据我所知一开始是 Stanley 的 copycat, 生产线和 Stanley 一模一样, 后期才有一些区分, 有些老木匠说 Record 的刨子有时候会比 Stanley 的质量更好，买 Stanley 还是 Record 就看个人喜好了
+	    
+	    ![Stanley No.4](assets/StanleyNo4.png)
+		
+		![Stanley No.5 1/2](assets/Stanley5.5.png)
+		
+		![Record No.5](assets/RecordNo5.png)
 	    
 		如果想买全新的话, 就不得不提到国产的牌子 - 鲁班, 这个牌子是浙江省慈溪市[强生工具](http://www.qstools.com/index.asp) (淘宝 [鲁班工坊](https://shop106100651.world.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.2f832e8dQK7jqp&user_number_id=1799062986)) 生产的, 这个厂商同时给海外的很多品牌代工, 例如北美的 [WoodRiver](https://www.woodcraft.com/categories/planes), 欧洲的 [JUUMA](https://www.fine-tools.com/juuma-planes.html). 他们主要是根据 Stanley 样式来生产铁刨, 结构和质量上是值得信赖的. 这几个牌子几乎占领了欧刨的中端市场, 推荐入门型号也同样是 No. 4 和 No. 5 1/2 这两个型号。
 		由于村里没有这些牌子的代理商, 所以对于纽村的朋友来说, 就比较麻烦了, 优先建议是从淘宝  (甚至是闲鱼买二手) 购买然后海运过来, 这样的花费是最少的, 如果没有淘宝也可以通过澳洲木工店购买: https://www.timbecon.com.au/brands/luban, 这家店提供直邮村里
 	* 凿子
+		凿子的样式也是多种多样, 一般只需要买这四个宽度 (24mm、18mm、13mm、6mm) 的斜凿 (Bevel Edge Chisel) 这是最常用也是最万能的凿子
 		
+		先说二手, 在村里我只知道 Marples 这个牌子, 我买过一套, 那个刀刃不是一般的持久耐用, 后来就没买过二手的凿子了, 如果有不错的也欢迎补充
+		
+		![Marples Chisels](assets/MarplesChisels.png)
+		
+		全新的话优先推荐 Narex (捷克) 然后是 Two Cherries (德国) 和鲁班, Narex 是出了名的高性价比, 性能优秀, 价格合适, Two Cherries 也差不多, 但推荐的人不如 Narex 多. 鲁班的凿子没用过, 但鉴于他们的刨刀都不错, 凿子应该也差不到哪去
+		Narex: https://www.timbecon.com.au/brands/narex
+		
+		![Narex Chisel Set](assets/BarexChisel.png)
+		Two Cherries: https://piranhatools.co.nz/collections/brand-two-cherries-germany
+		
+		![Two Cherries Chisel Set](assets/TwoCherries.png)
+		鲁班: https://www.timbecon.com.au/brands/luban
+		
+		![LuBan Chisel Set](assets/LuBanChisel.png)
 	* 锤子
 	* 锯子
 
