@@ -137,11 +137,11 @@
 		如果想买全新的话, 就不得不提到国产的牌子 - 鲁班, 这个牌子是浙江省慈溪市[强生工具](http://www.qstools.com/index.asp) (淘宝 [鲁班工坊](https://shop106100651.world.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.2f832e8dQK7jqp&user_number_id=1799062986)) 生产的, 这个厂商同时给海外的很多品牌代工, 例如北美的 [WoodRiver](https://www.woodcraft.com/categories/planes), 欧洲的 [JUUMA](https://www.fine-tools.com/juuma-planes.html). 他们主要是根据 Stanley 样式来生产铁刨, 结构和质量上是值得信赖的. 这几个牌子几乎占领了欧刨的中端市场, 推荐入门型号也同样是 No. 4 和 No. 5 1/2 这两个型号。
 		由于村里没有这些牌子的代理商, 所以对于纽村的朋友来说, 就比较麻烦了, 优先建议是从淘宝  (甚至是闲鱼买二手) 购买然后海运过来, 这样的花费是最少的, 如果没有淘宝也可以通过澳洲木工店购买: https://www.timbecon.com.au/brands/luban, 这家店提供直邮村里
 	* 凿子
-		凿子的样式也是多种多样, 一般只需要买这四个宽度 (24mm、18mm、13mm、6mm) 的斜凿 (Bevel Edge Chisel) 这是最常用也是最万能的凿子
+		凿子的样式也是多种多样, 一般只需要买这四个宽度 (24mm, 18mm, 13mm, 6mm) 的斜凿 (Bevel Edge Chisel) 这是最常用也是最万能的凿子
 		
-		先说二手, 在村里我只知道 Marples 这个牌子, 我买过一套, 那个刀刃不是一般的持久耐用, 后来就没买过二手的凿子了, 如果有不错的也欢迎补充
+		先说二手, 在村里我只知道 Marples 这个牌子, 我有幸在二手市场用便宜的价格买过一套, 那个刀刃持久度非常好也很耐用, 后来就没买过二手的凿子了, 如果有不错的也欢迎补充
 		
-		![Marples Chisels](assets/MarplesChisels.png)
+		![MarplesChiselSet](MarplesChiselSet.jpeg)
 		
 		全新的话优先推荐 Narex (捷克) 然后是 Two Cherries (德国) 和鲁班, Narex 是出了名的高性价比, 性能优秀, 价格合适, Two Cherries 也差不多, 但推荐的人不如 Narex 多. 鲁班的凿子没用过, 但鉴于他们的刨刀都不错, 凿子应该也差不到哪去
 		Narex: https://www.timbecon.com.au/brands/narex
