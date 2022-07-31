@@ -141,7 +141,7 @@
 		
 		先说二手, 在村里我只知道 Marples 这个牌子, 我有幸在二手市场用便宜的价格买过一套, 那个刀刃持久度非常好也很耐用, 后来就没买过二手的凿子了, 如果有不错的也欢迎补充
 		
-		![MarplesChiselSet](MarplesChiselSet.jpeg)
+		![MarplesChiselSet](/assets/MarplesChiselSet.jpeg)
 		
 		全新的话优先推荐 Narex (捷克) 然后是 Two Cherries (德国) 和鲁班, Narex 是出了名的高性价比, 性能优秀, 价格合适, Two Cherries 也差不多, 但推荐的人不如 Narex 多. 鲁班的凿子没用过, 但鉴于他们的刨刀都不错, 凿子应该也差不到哪去
 		Narex: https://www.timbecon.com.au/brands/narex
