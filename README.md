@@ -116,7 +116,7 @@
 	 
 	 最最基本的, 至少要有一个吸尘器. 不是那种家用的, 而是工业用干湿吸尘器, 可以吸锯末和粉尘的. 大多数电动工具都有粉尘口, 可以直接把吸尘器的软管插到工具的粉尘口上.
 	 
-	 ![Vacuum](assets/vacuum.png)
+	 ![Shop Vacuum](assets/vacuum.png)
 	 
 	 如果玩大了的话, 集尘系统是必不可少的, 集尘系统的主要目的是把粉尘控制在粉尘产生源, 尽量减少散播到周围的空气中, 降低健康隐患, 注意, 这个并不代表就可以不戴口罩
 	
@@ -258,9 +258,49 @@
 		电池和非电池看个人喜好和口袋深度, 我比较推荐插电的, 理由是打磨时间一般会比较久, 电池持久度不行
 		
 		![Random Orbital Sander](assets/sander.png)
+	* 圆锯/轨道锯
+		在没有台锯的情况下, 圆锯配上一些辅助夹具能做到和台锯一样的效果, 建议买有线的, 在性能上比较有保障, 也比较便宜.
 		
+		![Circular Saw](assets/circularsaw.png)
+		
+		如果预算充足的话直接上轨道锯 (Track Saw), 顾名思义就是在轨道上使用的圆锯, 因为有轨道, 切直线就非常的准确, 而且不需要额外的辅助措施. 优先推荐的是 Festool 的轨道锯, 当然这也比较贵, 其余品牌请自行上网研究
+		
+		![Track Saw](assets/tracksaw.png)
 
-* 量具
+* 量具/划线/夹具
+	* 直尺
+		最好是不锈钢的, 相对交薄的那种, 直尺越厚, 在划线的时候如果视线与刻度不垂直误差越大. 直尺一般买 15cm, 30cm, 60cm, 1000cm, 我比较常用的是 30 和 60 的, 如果是做小件为主那选 15 和 30.
+	* 直角尺
+		优先购买 0 级或者 1 级金工直角尺, 根据你常做物件的大小尺寸购买, 一般买 50mm, 100mm, 150mm.
+		
+		![Engineer Square](assets/engineersquare.png)
+		
+		![Engineer Square](assets/engineersquare1.png)
+	* 45 度角尺
+		根据需要购买, 在做斜角的时候比较常用, 因为是固定角度, 准确度有保证
+		
+		![45 Degree Miter Angle Gauge](assets/45Degree.png)
+	* 组合尺
+		这个一般跳过, 因为市面上能买的精确度一般都很差, 好的又很贵, 如果有预算的话可以买, 方便很多
+		
+		![combination square](assets/combinationsquare.png)
+	* 活动角度尺 (Sliding Bevel)
+		常用于获取和转移角度, 不需要知道具体是多少度, 很方便的一个工具
+		![Sliding Bevel](assets/slidingbevel.png)
+	* 卷尺
+		买一个吧, 方便, 主要用于粗算材料长度宽度什么的, 由于不是太准就只能用来粗略测量
+	* 各种笔
+		由于铅笔画出来的线有厚度, 所以做家具一般不用铅笔, 如果用的话最好用很细的那种机械出笔芯的细头铅笔或者 0.5 油性笔. 如果只是标记板件轮廓的话随便什么笔都行, 主要是能看清楚.
+	* 划线刀 (Marking Knife)
+		划线刀是做家具必备的, 所有 final line 最好都是刀划出来, 这样的线是最细最准确. 木工划线刀喜欢定制, 这就比较贵, 可以用美工雕刻刀代替
+		
+		![Marking knife](assets/markingknife-1.png)
+		
+		![Marking knife](assets/markingknife.png)
+	* 划线器 (Marking Gauge)
+		这是用来划与边平行的线, 个人偏向欧式的圆刀片划线器, 其他样式取决于个人的喜好.
+		
+		![Marking Guage](assets/MarkingGauge.png)
 	
 
 ## 5. 木材连接方式/榫卯
